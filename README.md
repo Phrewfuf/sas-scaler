@@ -31,4 +31,4 @@ Optional hardware:
 - 39 ohm resistor to limit the fan's speed
 - 2x 1N5822 Schottky Diodes - used to tap 2 power sources and prevent backflow
 
-
+The two shields need some modifications to fit the whole thing in the enclosure. Details see in linked forum thread.
