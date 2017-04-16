@@ -3,7 +3,7 @@ Scales the steering angle sensor signal to account for quickrack installation on
 
 This was made by user "hired-goon" at ozfoz.com in this thread: http://ozfoz.com/forum/viewtopic.php?f=29&t=56658&start=0&st=0&sk=t&sd=a
 
-The issue was that a Forester with VDC presented unwanted behaviour after the installation of a quicker steering rack than OEM.
+The issue was that a Subaru Forester with VDC presented unwanted behaviour after the installation of a quicker steering rack than OEM.
 The underlying problem is that the quicker steering rack needs less steering wheel input than the original rack to achieve the same turn-in-radius.
 This confuses the heck out of the VDC system, because it receives a low steering wheel angle and measures a higher change in direction than it expects to, causing the system to assume an oversteer condition and react accordingly.
 
