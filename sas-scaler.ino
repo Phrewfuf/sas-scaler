@@ -1,4 +1,5 @@
-rduino Uno R3 using 2x DFRobot CAN BUS shield V2.0
+/*
+Arduino Uno R3 using 2x DFRobot CAN BUS shield V2.0
 Intercept and scale steering angle sensor signals for Subaru vehicles which have been swapped to a different ratio steering rack
 Designed and tested on an AUDM MY12 Forester S-Edition swapped to an AUDM MY15 STI rack p/n 34110VA101
 Written 27/11/2016 by Hired-Goon - hiredgoon@iinet.net.au or hired-goon at ozfoz.com
